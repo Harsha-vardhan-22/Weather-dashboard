@@ -24,4 +24,3 @@ A simple and responsive **Weather Dashboard Web App** that displays real-time we
 - Open-Meteo API (Weather Data)
 - Open-Meteo Geocoding API (City search)
 
-## 📂 Project Structure
